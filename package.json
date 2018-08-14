@@ -1,0 +1,23 @@
+{
+  "name": "phaser3-tutorial",
+  "version": "1.0.0",
+  "description": "https://phaser.io/tutorials/making-your-first-phaser-3-game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riccjohn/phaser3-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riccjohn/phaser3-tutorial/issues"
+  },
+  "homepage": "https://github.com/riccjohn/phaser3-tutorial#readme",
+  "dependencies": {
+    "http-server": "^0.11.1",
+    "phaser": "^3.11.0"
+  }
+}
